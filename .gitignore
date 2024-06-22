@@ -1,0 +1,11 @@
+# Ignore WordPress config file
+wp-config.php
+# Ignore cache and log files
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backup-db/
+wp-content/cache/
+themes/twentytwenty/js/
